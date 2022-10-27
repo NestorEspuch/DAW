@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Overwatch",
+    "descripcion": "GOTY",
+    "edadMinima": 12,
+    "numeroJugadores": 5,
+    "tipo": "Shooter",
+    "precio": 20
+  },
+  {
+    "id": 2,
+    "nombre": "League of legends",
+    "descripcion": "The worst game in history",
+    "edadMinima": 20,
+    "numeroJugadores": 5,
+    "tipo": "Rol",
+    "precio": 0
+  },
+  {
+    "id": 3,
+    "nombre": "Minecraft",
+    "descripcion": "The best game",
+    "edadMinima": 5,
+    "numeroJugadores": 1,
+    "tipo": "Adventure",
+    "precio": 30
+  },
+  {
+    "id": 4,
+    "nombre": "Apex legends",
+    "descripcion": "Shooter random",
+    "edadMinima": 16,
+    "numeroJugadores": 3,
+    "tipo": "Shooter",
+    "precio": 0
+  },
+  {
+    "id": 5,
+    "nombre": "The Sims 4",
+    "descripcion": "Better game in a life",
+    "edadMinima": 18,
+    "numeroJugadores": 1,
+    "tipo": "Rol",
+    "precio": 200
+  },
+  {
+    "id": 6,
+    "nombre": "HADES",
+    "descripcion": "I tried to play, but I got bored",
+    "edadMinima": 16,
+    "numeroJugadores": 1,
+    "tipo": "Roguelike",
+    "precio": 10
+  }
+]
