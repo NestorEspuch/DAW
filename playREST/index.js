@@ -1,4 +1,4 @@
-//
+//Servidor y servicios para coger, envíar, modificar y eliminar juegos;
 
 const express = require("express");
 const utilidades = require("./utilidades.js");
